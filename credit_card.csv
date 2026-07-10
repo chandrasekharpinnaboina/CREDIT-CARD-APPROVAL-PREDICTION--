@@ -1,0 +1,1001 @@
+Age,Annual_Income,Employment_Years,Credit_Score,Existing_Loans,Loan_Balance,Credit_Inquiries,Marital_Status,Employment_Type,Education,Approved
+59,77761,17,535,5,415466,3,Single,Private,High School,0
+49,141178,18,502,2,215558,3,Married,Government,Post Graduate,0
+35,56368,21,555,1,476111,8,Single,Business,Post Graduate,0
+28,26783,4,534,2,875564,6,Single,Government,Graduate,0
+41,131530,23,644,0,484282,2,Married,Private,Post Graduate,0
+59,61914,8,833,0,460014,2,Single,Private,Post Graduate,1
+39,90507,26,765,4,447415,5,Married,Business,Graduate,0
+43,147738,2,840,0,517039,5,Married,Private,Graduate,0
+31,99026,27,512,2,845978,3,Single,Private,Graduate,0
+31,135893,9,762,3,521396,8,Married,Private,Post Graduate,0
+44,131255,18,735,3,105686,3,Married,Business,Graduate,0
+56,130616,2,582,4,612439,8,Married,Government,High School,0
+44,87526,28,762,5,265471,3,Married,Private,High School,0
+23,90835,28,706,2,644606,1,Single,Business,High School,1
+42,65765,21,387,2,947272,1,Married,Private,Post Graduate,0
+22,39956,14,343,0,719778,4,Single,Business,High School,0
+44,107895,0,760,2,487602,3,Married,Private,Post Graduate,1
+50,66240,6,577,1,698148,6,Married,Business,Post Graduate,0
+58,141008,11,720,5,640233,4,Married,Private,High School,0
+22,57148,16,652,0,213456,5,Single,Government,Graduate,0
+41,114270,29,814,1,308974,9,Single,Private,Post Graduate,0
+53,147978,20,318,4,52446,3,Single,Business,High School,0
+32,24757,25,322,3,408376,1,Married,Private,Post Graduate,0
+42,39097,28,712,4,711943,9,Married,Government,Graduate,0
+45,30395,23,329,3,427214,8,Married,Private,Graduate,0
+47,36241,19,407,4,944734,9,Married,Business,High School,0
+48,123892,4,666,2,140148,6,Single,Business,Post Graduate,0
+36,47696,3,580,1,593629,3,Married,Government,Post Graduate,0
+35,135654,27,427,3,31085,2,Single,Business,Post Graduate,0
+23,90480,11,528,0,317715,9,Married,Private,Post Graduate,0
+57,66163,29,410,1,407931,2,Single,Private,High School,0
+27,39816,19,435,0,524006,8,Single,Private,Graduate,0
+41,69840,27,661,1,390452,4,Married,Business,High School,1
+29,122547,23,485,1,5750,2,Married,Private,Post Graduate,0
+59,72853,17,428,4,900363,4,Single,Private,Post Graduate,0
+38,44917,16,560,3,340912,1,Married,Private,Graduate,0
+24,116731,18,814,3,511760,3,Married,Government,Post Graduate,0
+45,41566,8,748,1,35903,9,Single,Business,High School,0
+34,95452,3,403,2,203561,1,Single,Business,High School,0
+29,82823,25,782,2,949597,1,Single,Business,Graduate,1
+46,141392,20,523,0,615324,7,Single,Government,High School,0
+22,40806,1,790,0,612242,0,Married,Business,High School,0
+40,95520,3,772,4,512493,6,Single,Government,High School,0
+48,21759,1,309,1,427530,4,Single,Government,High School,0
+27,146092,14,704,0,441441,7,Single,Business,Post Graduate,0
+28,61949,1,601,0,869446,0,Married,Private,High School,0
+55,112374,3,530,5,428395,6,Single,Private,Graduate,0
+34,22482,5,365,1,641593,4,Married,Business,Graduate,0
+37,44442,6,411,4,505633,3,Single,Business,High School,0
+56,53719,9,312,0,418554,6,Single,Government,Graduate,0
+24,78066,18,692,4,485651,9,Married,Business,High School,0
+22,113501,18,799,3,200753,1,Single,Government,Graduate,0
+26,22079,25,533,4,32101,0,Single,Business,Graduate,0
+24,22717,21,613,2,2775,0,Married,Private,High School,0
+49,79676,28,311,2,635785,0,Single,Private,High School,0
+38,47952,11,508,4,490399,4,Single,Business,Post Graduate,0
+46,106444,2,313,2,45619,9,Single,Government,High School,0
+54,62460,12,717,3,963342,6,Single,Private,High School,0
+30,110397,17,736,1,252388,1,Married,Government,Post Graduate,1
+56,92847,7,676,2,412755,9,Single,Business,High School,0
+34,113607,20,319,2,757634,7,Married,Business,High School,0
+51,109106,14,369,4,843556,3,Single,Private,Post Graduate,0
+35,38449,0,510,3,65149,2,Married,Business,High School,0
+28,53536,2,400,1,26616,9,Single,Private,High School,0
+34,84077,25,431,4,997159,7,Married,Government,Post Graduate,0
+43,58258,7,680,4,746055,1,Single,Private,Post Graduate,0
+41,68302,3,431,5,185639,2,Married,Private,Graduate,0
+36,145937,15,319,3,692459,2,Married,Government,High School,0
+38,48865,29,835,1,206903,9,Single,Private,Graduate,0
+44,26645,22,526,3,231318,0,Married,Private,Graduate,0
+46,139771,9,453,1,848231,5,Single,Business,Post Graduate,0
+45,58000,11,768,3,352365,1,Single,Government,High School,0
+49,46737,13,704,4,901311,0,Single,Private,High School,0
+35,31485,13,501,4,287623,1,Single,Government,Post Graduate,0
+21,58565,1,337,0,963676,5,Single,Government,Graduate,0
+45,45522,22,487,2,361309,3,Married,Private,Post Graduate,0
+27,139614,4,356,5,55863,5,Single,Business,High School,0
+29,85155,4,319,3,173115,8,Single,Government,Post Graduate,0
+44,75168,5,572,5,869001,9,Single,Private,High School,0
+21,72487,12,418,0,495654,9,Single,Government,Graduate,0
+28,149948,8,815,2,503323,7,Single,Business,High School,0
+44,32342,29,520,3,408624,0,Single,Business,Graduate,0
+31,60806,21,825,1,777635,7,Married,Business,Graduate,0
+37,68770,27,814,2,713340,8,Married,Private,High School,0
+28,98623,28,635,4,278495,5,Single,Private,High School,0
+55,123177,14,354,0,135203,9,Married,Business,Graduate,0
+55,119785,13,799,2,247908,4,Single,Private,Post Graduate,1
+53,95629,23,835,2,831257,5,Single,Business,High School,0
+25,140993,6,461,4,797781,5,Single,Private,Graduate,0
+59,72603,24,458,3,192003,8,Single,Business,Graduate,0
+48,146944,19,487,1,830686,3,Single,Government,Post Graduate,0
+27,132726,1,359,4,824657,1,Married,Business,High School,0
+29,101974,6,618,1,497599,8,Married,Business,Graduate,0
+28,125947,5,510,3,274597,1,Married,Private,Post Graduate,0
+32,46399,16,705,2,674174,9,Married,Private,Graduate,0
+54,148177,26,408,1,673623,8,Single,Private,High School,0
+53,105382,24,375,0,601982,1,Married,Private,Post Graduate,0
+43,101244,24,841,0,540023,7,Single,Private,Graduate,0
+44,129575,27,613,4,933334,8,Married,Private,Post Graduate,0
+57,135520,1,416,3,834325,9,Married,Government,High School,0
+55,130904,2,318,4,700033,8,Married,Business,Post Graduate,0
+42,96534,4,731,4,913438,9,Married,Business,High School,0
+47,75106,4,649,5,744822,8,Single,Business,Graduate,0
+55,132599,0,482,4,569354,1,Married,Government,High School,0
+21,50678,7,412,5,755675,3,Married,Business,Graduate,0
+55,96218,11,482,0,134445,6,Single,Government,Graduate,0
+57,83230,23,780,0,403551,1,Single,Government,High School,1
+34,134684,3,445,4,941245,0,Married,Government,Graduate,0
+23,94055,12,412,0,797124,2,Single,Business,Post Graduate,0
+21,76373,22,775,3,964799,3,Single,Government,Graduate,0
+25,51480,14,602,5,569829,7,Single,Business,High School,0
+46,105230,10,417,5,165129,5,Married,Business,Post Graduate,0
+34,88836,9,460,4,591271,1,Single,Private,Post Graduate,0
+59,92258,2,700,0,674943,8,Married,Private,Graduate,0
+47,59986,21,497,1,153837,1,Married,Government,Graduate,0
+29,44160,13,559,5,714647,4,Married,Government,High School,0
+35,105595,15,346,4,941410,3,Married,Business,Post Graduate,0
+35,121358,9,698,4,907179,6,Single,Government,High School,0
+46,99111,28,377,3,871535,7,Married,Government,Graduate,0
+33,84929,9,423,2,735035,4,Single,Business,Post Graduate,0
+52,93506,11,374,2,177597,9,Married,Government,High School,0
+59,54911,29,436,5,693590,4,Single,Government,High School,0
+52,107127,8,699,3,412736,1,Married,Business,High School,0
+24,51821,0,804,3,478454,7,Single,Business,High School,0
+50,95039,4,799,3,445150,1,Married,Private,High School,0
+57,80535,19,437,5,287710,9,Married,Business,Post Graduate,0
+43,133453,7,349,2,859625,5,Single,Private,High School,0
+59,104458,10,553,3,496440,7,Married,Government,Post Graduate,0
+35,32175,11,725,0,423350,5,Married,Business,High School,0
+49,139235,0,846,4,403561,3,Married,Business,Graduate,0
+56,74771,24,601,4,776372,3,Single,Business,Graduate,0
+33,126660,21,648,1,645303,5,Married,Government,High School,0
+52,147157,19,348,1,172257,3,Married,Private,Graduate,0
+27,141300,27,373,5,770824,7,Single,Government,Post Graduate,0
+42,106925,24,560,5,224021,8,Single,Government,High School,0
+48,133374,10,655,4,655244,0,Single,Business,Post Graduate,0
+22,86358,4,559,0,595032,3,Single,Private,High School,0
+26,37327,14,594,2,295599,3,Single,Government,Graduate,0
+48,67057,4,612,2,508433,1,Married,Business,Post Graduate,0
+48,26150,11,481,5,945522,5,Married,Government,Graduate,0
+40,24425,4,663,0,316363,2,Married,Government,Graduate,0
+50,143654,16,487,5,832423,6,Single,Business,High School,0
+31,36032,16,842,2,597904,4,Married,Business,Post Graduate,0
+48,22198,23,847,5,611726,3,Single,Private,Graduate,0
+45,80500,11,707,3,116841,4,Single,Government,High School,0
+59,73394,23,713,5,664846,7,Married,Business,High School,0
+53,40079,27,641,4,169934,2,Single,Business,High School,0
+21,56220,14,519,5,777022,6,Single,Private,Graduate,0
+47,61874,14,462,4,583158,5,Married,Private,High School,0
+33,33859,5,519,0,86694,0,Single,Business,Post Graduate,0
+23,70460,11,569,2,237068,6,Single,Private,Post Graduate,0
+59,51419,26,699,1,830288,6,Married,Business,Graduate,0
+26,138865,28,481,1,101407,0,Single,Government,Post Graduate,0
+28,28705,19,504,2,493960,8,Single,Private,High School,0
+47,62880,17,527,1,555667,5,Married,Government,Graduate,0
+29,149838,13,549,5,851161,1,Married,Government,High School,0
+57,43236,1,740,0,421594,4,Married,Government,Graduate,0
+53,107955,8,832,0,236500,3,Married,Business,Graduate,1
+44,105514,4,495,2,578641,6,Single,Government,High School,0
+35,123145,19,818,1,705356,7,Single,Government,Post Graduate,0
+52,35358,25,369,5,800463,0,Married,Government,Post Graduate,0
+52,119713,28,698,0,211144,4,Single,Business,Graduate,1
+44,114914,0,502,0,590270,2,Single,Government,High School,0
+32,122870,22,447,3,36683,0,Married,Government,High School,0
+59,96918,2,771,3,114091,2,Married,Private,Graduate,0
+22,139179,5,498,0,117797,5,Single,Business,Post Graduate,0
+23,136243,4,725,2,410834,6,Married,Government,High School,0
+57,34596,20,791,4,530875,7,Married,Private,Post Graduate,0
+37,53572,26,441,4,324934,3,Married,Business,Post Graduate,0
+22,98757,4,612,5,293624,2,Single,Business,Graduate,0
+22,21279,0,464,0,753890,4,Married,Business,Graduate,0
+48,83197,16,613,0,675887,8,Single,Business,Post Graduate,0
+43,131496,18,320,0,285713,5,Single,Business,High School,0
+57,82516,13,381,2,797583,8,Single,Business,High School,0
+52,27083,11,430,3,464310,5,Married,Government,Graduate,0
+53,140674,9,604,0,190246,1,Married,Government,Post Graduate,0
+21,140307,19,670,0,569027,4,Married,Government,High School,1
+39,146457,20,683,1,557242,8,Married,Government,High School,0
+22,129397,17,744,2,768223,7,Married,Private,Graduate,0
+46,37771,23,724,5,109373,6,Single,Government,Post Graduate,0
+52,49975,26,460,0,952807,0,Single,Business,High School,0
+26,65648,10,477,1,558988,3,Single,Government,Graduate,0
+52,145641,29,789,4,123728,6,Married,Government,High School,0
+24,68285,1,626,5,985072,6,Single,Business,High School,0
+31,39063,24,588,0,853220,5,Single,Government,High School,0
+37,87642,17,653,0,595333,7,Married,Government,Graduate,0
+58,110093,28,327,1,431058,5,Married,Government,Post Graduate,0
+44,134390,24,342,2,669260,9,Single,Private,Graduate,0
+25,106143,6,722,0,914424,2,Single,Government,Post Graduate,1
+54,57599,23,476,4,866491,3,Married,Business,High School,0
+26,71920,14,828,0,526169,2,Married,Business,Post Graduate,1
+42,48529,10,793,4,950541,0,Married,Government,High School,0
+31,55954,17,497,5,919134,9,Married,Government,High School,0
+36,47856,22,816,5,807221,4,Single,Government,Graduate,0
+53,22573,11,813,3,388227,0,Single,Business,High School,0
+29,98344,5,321,3,88059,0,Married,Business,Graduate,0
+26,55367,19,411,4,738854,1,Single,Private,Post Graduate,0
+36,122337,22,356,2,832583,3,Single,Private,Post Graduate,0
+49,126732,29,365,0,442136,5,Married,Private,High School,0
+23,119608,12,397,0,633676,7,Single,Business,Graduate,0
+40,80774,19,443,3,198303,2,Single,Private,High School,0
+56,43752,15,734,4,511162,0,Single,Government,Graduate,0
+39,75029,17,385,0,473573,2,Married,Government,Graduate,0
+46,37685,9,643,0,265406,2,Married,Business,Graduate,0
+23,71693,27,593,2,329125,4,Single,Private,Post Graduate,0
+39,136739,22,542,1,907383,3,Married,Government,Graduate,0
+40,75961,7,331,3,909531,3,Married,Business,Post Graduate,0
+52,126937,17,690,3,81972,8,Married,Private,Graduate,0
+27,144956,20,576,1,337629,6,Single,Government,Post Graduate,0
+53,96908,0,831,0,54722,3,Single,Private,Post Graduate,1
+59,145537,22,453,2,875931,2,Married,Business,Post Graduate,0
+38,146678,7,682,2,181890,5,Single,Private,High School,0
+21,94532,28,367,3,947436,2,Single,Business,Graduate,0
+31,101994,5,513,2,269045,5,Single,Private,High School,0
+48,76133,4,675,5,117473,8,Single,Government,Graduate,0
+45,117425,14,512,1,492239,5,Single,Business,Graduate,0
+43,145055,21,378,0,270741,3,Married,Business,High School,0
+51,81268,14,680,5,391775,4,Single,Business,Post Graduate,0
+50,112201,1,357,1,523260,5,Single,Private,Graduate,0
+55,58243,0,325,4,850341,2,Single,Private,Post Graduate,0
+27,77384,22,746,3,858823,7,Married,Government,High School,0
+36,51653,22,365,2,739574,3,Married,Business,Post Graduate,0
+46,46657,25,553,4,925767,7,Married,Business,Graduate,0
+22,59952,10,343,2,325437,9,Single,Private,Graduate,0
+21,42180,9,396,5,768184,9,Married,Private,Graduate,0
+32,117432,29,526,0,156877,2,Married,Government,High School,0
+25,141829,17,735,0,484895,9,Married,Government,Graduate,0
+57,148377,17,678,0,536162,6,Married,Private,High School,0
+52,98411,16,477,2,748425,8,Single,Business,Post Graduate,0
+29,21622,25,726,4,872834,3,Married,Government,Graduate,0
+55,68756,7,606,0,800511,7,Married,Private,Graduate,0
+39,60809,14,803,4,443066,2,Single,Private,Graduate,0
+36,36725,7,567,2,334923,6,Single,Business,Post Graduate,0
+23,81396,16,307,5,619696,2,Married,Private,Graduate,0
+40,71226,11,807,4,926522,6,Single,Private,High School,0
+44,126296,26,775,5,644894,9,Married,Government,Post Graduate,0
+53,101182,7,596,2,967004,9,Single,Private,Post Graduate,0
+44,102565,24,463,2,120062,5,Single,Private,Post Graduate,0
+31,49402,13,784,3,12100,1,Married,Government,Post Graduate,0
+28,24263,3,371,2,319165,2,Single,Business,Post Graduate,0
+56,143489,0,537,2,675160,5,Married,Business,High School,0
+58,116523,0,403,1,390270,3,Single,Government,Post Graduate,0
+40,66828,18,509,0,194472,5,Married,Government,Graduate,0
+55,140824,15,767,3,878878,0,Single,Business,Post Graduate,0
+45,67924,13,753,3,815869,9,Single,Business,Post Graduate,0
+55,94182,20,567,3,234196,0,Single,Business,Post Graduate,0
+45,113065,15,685,1,207609,2,Single,Business,Post Graduate,1
+49,79052,4,686,5,964179,7,Single,Business,Post Graduate,0
+38,31664,8,558,2,675302,7,Married,Government,High School,0
+38,55737,25,582,0,283006,3,Single,Private,High School,0
+22,121332,29,339,4,273813,5,Married,Business,Post Graduate,0
+55,109563,27,785,5,907651,7,Married,Business,High School,0
+36,49373,1,519,2,709132,6,Married,Private,Graduate,0
+56,137369,17,428,1,802348,6,Single,Private,Post Graduate,0
+53,56397,5,819,2,273022,3,Married,Private,Graduate,1
+24,148575,8,559,2,789417,8,Single,Private,Graduate,0
+53,106145,0,665,1,491121,9,Married,Private,Post Graduate,0
+34,121371,8,843,3,204720,5,Married,Private,Graduate,0
+41,58709,24,823,3,565523,2,Married,Government,Graduate,0
+40,136074,15,315,0,281075,4,Married,Private,Graduate,0
+28,81120,12,428,0,92876,4,Married,Private,Post Graduate,0
+27,39250,8,408,3,524624,4,Single,Government,Post Graduate,0
+23,41172,20,832,5,829365,7,Married,Private,Graduate,0
+37,31555,12,568,4,307680,8,Married,Business,Post Graduate,0
+53,107410,8,461,2,593792,8,Single,Business,Post Graduate,0
+32,98617,10,559,4,623502,5,Single,Private,Graduate,0
+42,73276,3,401,2,182220,5,Single,Government,Post Graduate,0
+42,77492,1,805,3,113936,8,Married,Business,High School,0
+50,73002,28,546,0,16279,3,Married,Government,Post Graduate,0
+58,140103,5,836,5,199737,5,Married,Business,High School,0
+58,144938,13,430,0,103751,3,Married,Private,Graduate,0
+28,109599,3,652,4,366577,0,Married,Government,Post Graduate,0
+47,92355,5,495,0,71386,6,Married,Government,Graduate,0
+47,111248,18,681,3,86124,9,Single,Government,Graduate,0
+54,44762,5,526,5,367894,5,Single,Business,Graduate,0
+41,31046,1,775,4,863917,8,Married,Business,Graduate,0
+50,116999,17,776,5,336199,6,Married,Business,Graduate,0
+53,144130,12,564,2,91911,6,Married,Private,Post Graduate,0
+48,136021,8,671,0,885050,1,Married,Business,High School,1
+53,48769,22,785,5,470489,8,Married,Private,Post Graduate,0
+25,73302,18,733,1,722030,9,Single,Government,Post Graduate,0
+39,43150,12,510,0,993978,8,Single,Government,Post Graduate,0
+24,88247,10,676,2,447244,5,Married,Private,Post Graduate,0
+55,24853,0,694,5,221094,2,Single,Business,High School,0
+37,114613,23,749,4,376036,0,Married,Private,Post Graduate,0
+48,140900,29,663,2,237723,3,Married,Government,Graduate,1
+50,109399,21,756,1,333272,2,Married,Government,Post Graduate,1
+49,41792,6,525,5,411324,0,Single,Private,Post Graduate,0
+26,79129,24,430,3,838927,2,Single,Business,High School,0
+55,126019,20,775,0,82806,3,Married,Business,High School,1
+57,94478,14,576,4,879617,7,Single,Private,Graduate,0
+44,133811,0,455,3,731893,8,Single,Private,Post Graduate,0
+49,134130,11,517,5,230097,2,Married,Business,Post Graduate,0
+51,87298,25,489,5,974334,5,Single,Government,Post Graduate,0
+55,51987,6,716,2,992144,9,Single,Private,Graduate,0
+53,35850,14,845,5,970013,4,Married,Business,High School,0
+41,32112,20,340,4,197478,5,Married,Business,Graduate,0
+52,141789,18,606,3,487436,3,Single,Government,Post Graduate,0
+43,44058,27,637,4,694879,9,Married,Government,High School,0
+53,65420,28,613,1,311793,5,Single,Government,High School,0
+23,58890,24,374,1,689884,6,Married,Government,Graduate,0
+38,86017,0,578,0,489709,8,Married,Government,High School,0
+45,67304,16,475,0,689245,9,Married,Private,High School,0
+51,52921,16,572,1,437585,6,Married,Business,Post Graduate,0
+23,125921,2,588,5,232204,5,Single,Private,Post Graduate,0
+44,21524,11,571,4,357546,0,Married,Private,High School,0
+52,120424,5,365,1,817108,1,Married,Private,High School,0
+42,35048,25,782,0,850525,0,Married,Private,Graduate,0
+43,55111,10,547,1,440980,8,Single,Private,Graduate,0
+22,57904,2,455,5,181871,9,Single,Government,High School,0
+47,74912,7,346,1,341558,9,Married,Government,Post Graduate,0
+22,54008,13,753,4,498512,8,Married,Business,High School,0
+46,20060,13,500,3,355239,6,Married,Private,High School,0
+37,94666,9,423,5,767442,1,Married,Business,Post Graduate,0
+53,103559,1,300,0,596595,5,Married,Government,Post Graduate,0
+29,75337,13,490,4,475278,3,Married,Government,Graduate,0
+59,130616,8,815,1,881864,0,Single,Government,Graduate,1
+49,33350,2,741,1,294067,0,Married,Private,Graduate,0
+46,44354,20,442,3,379593,4,Married,Private,Graduate,0
+55,65186,25,490,0,494955,1,Married,Government,Post Graduate,0
+45,48145,7,832,0,235998,3,Married,Business,High School,0
+44,54020,15,526,2,471604,0,Married,Business,Graduate,0
+33,106123,1,612,0,834006,3,Married,Government,Graduate,0
+27,126667,5,601,3,436607,5,Single,Business,Post Graduate,0
+56,95186,27,759,2,646045,9,Single,Government,Post Graduate,0
+40,105469,20,700,2,577952,3,Single,Business,High School,1
+21,40581,28,692,1,853816,0,Single,Government,High School,0
+28,108929,25,506,1,817459,6,Single,Business,Post Graduate,0
+36,43051,24,509,0,690824,1,Single,Private,Graduate,0
+34,71474,11,414,2,296629,8,Married,Government,Graduate,0
+32,111748,4,550,1,259438,2,Married,Government,Graduate,0
+43,145995,1,518,3,150528,7,Married,Business,High School,0
+35,134618,15,706,1,468011,7,Married,Government,Graduate,0
+48,89626,4,742,5,297698,2,Married,Government,Graduate,0
+54,26960,14,653,5,309066,3,Married,Government,Post Graduate,0
+22,55772,11,849,1,275553,1,Single,Private,Graduate,1
+52,41520,3,441,2,724687,3,Married,Private,Post Graduate,0
+43,69481,14,800,2,746760,8,Single,Business,Graduate,0
+42,56408,10,846,4,298783,1,Single,Private,High School,0
+45,114006,15,841,5,231182,2,Married,Business,Graduate,0
+42,148496,22,806,3,456843,3,Married,Private,Graduate,0
+42,77134,5,580,2,806124,4,Married,Business,Post Graduate,0
+26,40491,13,723,0,89037,0,Married,Private,Post Graduate,0
+35,21341,17,569,5,734200,6,Married,Private,Post Graduate,0
+57,64623,11,453,3,709560,9,Married,Business,Graduate,0
+53,110327,26,382,3,748423,6,Married,Government,Graduate,0
+28,20338,10,725,2,188487,8,Single,Government,High School,0
+25,91431,12,574,3,18074,3,Married,Private,Graduate,0
+59,32254,20,583,2,670909,5,Married,Business,High School,0
+24,71860,22,472,1,292107,1,Single,Government,Post Graduate,0
+26,31344,10,626,5,484672,3,Married,Business,Post Graduate,0
+52,21750,22,362,4,751722,1,Married,Government,Post Graduate,0
+50,74756,15,372,1,756967,9,Single,Business,High School,0
+55,87957,14,674,5,576553,4,Married,Private,Graduate,0
+36,125423,20,807,2,16061,6,Married,Business,Post Graduate,0
+33,78053,27,697,5,451442,0,Married,Government,Graduate,0
+50,90855,14,419,2,159882,9,Married,Private,Graduate,0
+39,35896,24,736,1,453222,9,Married,Business,Post Graduate,0
+37,75761,3,764,0,637790,6,Married,Government,High School,0
+39,82552,10,585,0,284944,9,Single,Private,Graduate,0
+48,140075,18,564,5,378336,5,Married,Business,Post Graduate,0
+46,97454,14,619,0,502175,5,Married,Government,Graduate,0
+57,146522,3,675,2,256505,7,Single,Business,Graduate,0
+46,138681,20,388,3,631516,7,Single,Business,Graduate,0
+43,110600,12,502,2,206548,5,Married,Private,Graduate,0
+29,142732,21,633,3,462676,2,Single,Private,Graduate,0
+32,132153,18,521,1,450983,4,Married,Government,High School,0
+21,142926,1,340,4,814486,1,Married,Private,High School,0
+21,47935,13,367,3,468535,4,Single,Government,Post Graduate,0
+54,57641,28,813,0,496005,8,Married,Business,High School,0
+52,49711,3,426,2,700757,9,Married,Business,High School,0
+45,90342,15,554,1,13233,0,Single,Government,High School,0
+21,126896,20,315,0,766565,9,Single,Business,Graduate,0
+36,32182,19,776,1,483236,4,Single,Private,Graduate,0
+59,107833,13,361,4,680428,5,Single,Business,Post Graduate,0
+25,76276,26,731,2,852159,6,Married,Private,Post Graduate,0
+42,39541,28,567,5,877042,8,Single,Government,Post Graduate,0
+49,114457,14,334,2,332597,5,Single,Government,Graduate,0
+23,102310,27,793,4,628423,4,Single,Business,High School,0
+32,64813,2,768,2,419048,6,Single,Business,High School,0
+46,57198,7,624,5,370608,0,Single,Private,Graduate,0
+36,28820,15,603,3,217314,4,Married,Private,Post Graduate,0
+57,44070,9,575,1,537970,1,Single,Business,Post Graduate,0
+42,89768,3,500,5,485514,3,Married,Business,Post Graduate,0
+49,31122,29,744,0,154455,6,Single,Government,Graduate,0
+34,100559,17,623,4,320304,4,Single,Government,Post Graduate,0
+48,93543,1,334,3,748692,5,Single,Government,Post Graduate,0
+25,103441,16,781,0,285810,1,Single,Business,Graduate,1
+50,61786,12,779,0,320961,2,Single,Business,High School,1
+25,114934,3,364,4,615486,6,Single,Business,Graduate,0
+32,119804,25,307,3,427858,1,Single,Government,Graduate,0
+36,26737,24,600,0,566118,5,Single,Business,Graduate,0
+46,56062,29,642,0,496283,4,Married,Private,Graduate,0
+46,74237,10,730,3,534522,9,Single,Business,High School,0
+41,71571,6,723,2,581904,0,Married,Business,Post Graduate,1
+59,45510,11,631,0,271365,9,Single,Business,Graduate,0
+56,39426,9,737,1,142482,3,Married,Business,High School,0
+53,57265,6,473,3,735415,1,Single,Business,Post Graduate,0
+50,37850,12,826,0,716773,3,Single,Private,Post Graduate,0
+57,138249,6,325,4,1051,0,Single,Private,Post Graduate,0
+43,86150,23,705,5,896961,1,Married,Business,Graduate,0
+30,107312,16,531,1,992805,7,Married,Government,Graduate,0
+25,109613,9,832,5,601206,5,Married,Business,Post Graduate,0
+56,94910,28,849,5,78116,1,Married,Business,Post Graduate,0
+54,72375,9,804,0,384370,5,Single,Business,Post Graduate,0
+51,141826,23,478,1,974067,9,Single,Government,Post Graduate,0
+30,55435,3,431,1,228931,8,Single,Government,Post Graduate,0
+39,116443,19,754,2,306901,6,Married,Government,Post Graduate,0
+52,77132,3,647,5,519385,8,Single,Private,High School,0
+21,98945,21,839,1,383152,4,Married,Government,Post Graduate,1
+25,102050,6,705,2,523562,6,Married,Private,Graduate,0
+24,149828,21,375,3,732835,6,Married,Private,Graduate,0
+36,115402,0,791,2,968761,2,Married,Government,Graduate,1
+44,22983,11,493,4,226572,6,Married,Government,Post Graduate,0
+36,117241,23,461,0,131379,0,Single,Government,Graduate,0
+22,40662,12,646,3,581177,8,Married,Private,High School,0
+48,43510,9,660,3,986399,9,Married,Business,Post Graduate,0
+52,98187,14,386,4,226256,5,Single,Government,Graduate,0
+47,60998,26,561,2,822376,4,Married,Government,High School,0
+40,76846,12,513,0,885987,6,Married,Government,High School,0
+44,114071,22,561,2,562422,4,Single,Private,Graduate,0
+32,26640,21,582,1,420539,9,Single,Private,High School,0
+55,64547,21,766,2,509421,4,Single,Business,Graduate,1
+53,74620,20,679,3,202834,9,Married,Government,High School,0
+53,35317,21,661,0,480441,6,Single,Private,Post Graduate,0
+57,135608,27,748,2,227579,9,Single,Business,Post Graduate,0
+32,27564,8,740,0,550242,6,Single,Government,Post Graduate,0
+23,47345,25,392,0,710381,2,Married,Private,Post Graduate,0
+21,133824,8,723,1,352103,2,Single,Government,Post Graduate,1
+53,114223,14,441,1,751287,9,Married,Government,Graduate,0
+30,143372,9,590,3,735226,2,Married,Private,Post Graduate,0
+49,99273,23,731,4,725787,5,Single,Private,Post Graduate,0
+33,94859,25,348,0,267136,5,Married,Private,Post Graduate,0
+32,100765,24,601,4,526249,2,Married,Government,Post Graduate,0
+51,130017,28,489,3,536785,2,Single,Government,High School,0
+22,94038,9,435,0,425767,7,Married,Business,Post Graduate,0
+55,143618,7,703,0,993888,7,Single,Government,Post Graduate,0
+43,72393,23,640,5,780734,6,Married,Private,Graduate,0
+37,86081,15,617,4,973259,9,Married,Government,High School,0
+46,145341,16,662,2,799687,3,Single,Business,Graduate,1
+28,122650,25,681,1,135639,3,Single,Business,Post Graduate,1
+49,49430,26,532,2,835279,2,Married,Private,Graduate,0
+46,95532,4,643,4,760177,4,Married,Private,Graduate,0
+30,47788,3,848,1,703363,2,Single,Business,Post Graduate,0
+46,115505,17,828,2,20389,7,Married,Business,High School,0
+54,68543,23,482,5,175595,6,Married,Business,High School,0
+27,33919,18,340,1,385946,2,Married,Private,Graduate,0
+24,89346,3,696,0,323720,8,Married,Business,Post Graduate,0
+31,116122,27,793,2,830351,4,Single,Business,Graduate,1
+49,59974,6,632,1,737463,8,Single,Private,Graduate,0
+56,127309,9,426,5,3358,6,Single,Government,Graduate,0
+45,36371,24,300,1,350679,6,Single,Government,Post Graduate,0
+41,65084,17,467,1,501110,5,Single,Business,Post Graduate,0
+56,49629,18,318,5,252557,1,Single,Government,High School,0
+30,71184,3,631,2,207596,8,Married,Government,Post Graduate,0
+57,81916,9,755,3,778776,5,Single,Government,Graduate,0
+29,147293,0,408,2,630270,7,Married,Government,Graduate,0
+44,93972,22,567,4,228129,0,Married,Business,High School,0
+55,82187,17,744,5,792130,4,Married,Government,Post Graduate,0
+55,32984,4,539,2,328953,0,Single,Government,Graduate,0
+56,53039,14,600,1,617367,9,Married,Private,High School,0
+38,105431,16,402,5,55805,7,Single,Business,High School,0
+59,103691,2,549,0,162421,7,Married,Private,Graduate,0
+52,78606,11,752,2,207849,0,Married,Private,Graduate,1
+44,30616,1,819,5,967752,8,Single,Business,Post Graduate,0
+43,122665,0,452,2,861465,1,Married,Government,High School,0
+52,125373,22,473,5,238483,8,Married,Private,Graduate,0
+57,70072,20,642,1,884671,0,Married,Business,High School,0
+32,44574,16,730,0,392551,9,Married,Government,Post Graduate,0
+33,23430,21,623,0,44041,8,Single,Business,Graduate,0
+43,139123,15,719,4,818386,3,Married,Private,Post Graduate,0
+45,32676,4,784,5,270146,8,Married,Government,High School,0
+55,30816,14,711,2,331927,6,Single,Government,Post Graduate,0
+50,52733,2,383,0,107524,5,Married,Business,Post Graduate,0
+37,105680,27,412,0,218306,4,Married,Government,High School,0
+40,22050,6,631,3,911289,8,Married,Private,Post Graduate,0
+45,129996,10,677,3,544026,1,Married,Private,High School,0
+42,53933,9,340,0,797135,1,Single,Private,Graduate,0
+33,44951,8,404,5,113776,8,Married,Business,High School,0
+39,52413,13,501,4,180494,2,Single,Government,High School,0
+56,54801,12,749,0,192971,7,Married,Government,Graduate,0
+32,75619,28,565,1,929896,8,Married,Government,High School,0
+39,52913,24,509,2,831156,7,Married,Private,Graduate,0
+32,132573,29,417,4,818731,3,Single,Government,Graduate,0
+29,139076,24,676,1,277785,0,Married,Private,High School,1
+27,60600,1,839,4,341678,3,Married,Government,Post Graduate,0
+48,77775,2,383,1,268449,8,Single,Private,Post Graduate,0
+34,110816,6,753,2,753622,1,Single,Government,Graduate,1
+51,149972,20,813,2,280926,2,Single,Business,Post Graduate,1
+39,110093,17,686,3,340401,9,Single,Business,Post Graduate,0
+36,132590,2,649,5,236371,7,Married,Private,High School,0
+25,55400,9,595,1,602251,5,Married,Private,Graduate,0
+55,24494,21,557,3,646275,7,Married,Government,Graduate,0
+32,100688,28,380,1,675926,6,Married,Government,High School,0
+45,142744,6,567,3,124591,4,Single,Business,Post Graduate,0
+41,109431,8,718,2,592054,8,Married,Government,Graduate,0
+56,94691,16,534,4,530799,3,Married,Private,Post Graduate,0
+43,117419,10,610,3,639104,5,Married,Private,Graduate,0
+36,128730,6,656,1,500981,1,Married,Private,Graduate,1
+59,63001,23,512,1,773720,1,Single,Private,Graduate,0
+59,87364,27,348,5,943681,1,Married,Private,Graduate,0
+34,144988,13,426,2,266909,9,Married,Business,Post Graduate,0
+51,65028,18,522,1,151426,6,Married,Business,Post Graduate,0
+25,127434,3,578,0,286073,1,Single,Private,Post Graduate,0
+55,117659,25,707,4,159892,1,Single,Government,Post Graduate,0
+43,57573,5,804,3,111576,8,Married,Private,High School,0
+49,20806,9,593,5,422739,6,Married,Business,Graduate,0
+31,144343,6,576,4,595376,2,Married,Private,Graduate,0
+38,76638,12,737,2,983667,2,Single,Business,Graduate,1
+32,148301,13,406,5,77525,6,Married,Business,High School,0
+29,146295,3,719,3,13780,4,Married,Private,Post Graduate,0
+30,126506,7,728,3,268733,9,Married,Private,Graduate,0
+37,49757,4,674,0,952316,5,Single,Government,Post Graduate,0
+58,54636,0,372,2,880096,7,Married,Business,Post Graduate,0
+27,100097,3,329,5,963443,8,Married,Government,High School,0
+33,68280,2,487,5,444709,0,Single,Private,High School,0
+29,44262,8,663,1,104188,2,Single,Business,Post Graduate,0
+47,100435,7,750,0,617614,6,Married,Government,Graduate,0
+22,82211,0,494,0,827385,5,Single,Government,Graduate,0
+25,74842,26,455,5,590073,6,Married,Government,High School,0
+49,148583,5,471,5,543597,7,Single,Private,High School,0
+57,76979,8,340,4,578483,5,Single,Private,High School,0
+58,134524,6,362,4,25901,2,Married,Private,High School,0
+39,101470,3,322,4,678936,1,Married,Business,High School,0
+28,58197,12,659,0,424724,6,Married,Private,High School,0
+21,61844,16,374,1,467927,0,Single,Business,High School,0
+42,84754,27,417,3,549752,2,Married,Government,Graduate,0
+37,121868,1,679,4,977785,3,Married,Government,High School,0
+27,54157,27,589,1,278404,0,Married,Private,High School,0
+45,97129,4,739,2,649285,4,Married,Government,Graduate,1
+24,60042,11,306,4,297584,9,Married,Private,Graduate,0
+56,81665,26,495,3,357226,2,Single,Business,Post Graduate,0
+26,135512,20,720,2,892015,1,Married,Government,High School,1
+51,136953,7,492,2,580971,2,Married,Private,High School,0
+39,102856,5,447,3,386350,7,Single,Government,High School,0
+59,47376,7,501,4,172502,5,Married,Government,High School,0
+47,129049,17,743,0,919491,6,Married,Private,Post Graduate,0
+30,75554,2,718,3,507994,5,Married,Government,Graduate,0
+46,34199,21,726,3,680465,5,Married,Government,Graduate,0
+39,138533,11,778,3,602772,2,Married,Government,High School,0
+59,101412,28,774,2,774107,7,Single,Government,High School,0
+23,70948,25,425,1,930530,6,Single,Business,High School,0
+33,93781,2,694,0,854741,6,Single,Government,Post Graduate,0
+48,92750,21,624,4,832359,5,Married,Government,Post Graduate,0
+40,86262,5,691,4,206486,4,Single,Private,Graduate,0
+48,137424,1,739,1,975039,9,Married,Business,High School,0
+28,66600,22,503,3,829378,7,Married,Private,High School,0
+59,96898,11,785,0,912935,4,Married,Private,High School,1
+21,82483,1,330,4,449777,8,Single,Private,High School,0
+23,38297,5,687,5,141449,8,Single,Business,Post Graduate,0
+33,50448,16,733,4,577880,0,Single,Private,Graduate,0
+48,46172,2,675,3,138419,5,Married,Private,Graduate,0
+45,62874,1,643,5,295920,6,Single,Private,Post Graduate,0
+53,27657,22,742,1,921287,2,Married,Government,High School,0
+58,104386,29,374,0,580086,6,Single,Private,Graduate,0
+26,145617,19,454,1,135370,6,Single,Business,Graduate,0
+52,45425,7,729,1,856636,1,Married,Business,Post Graduate,0
+41,46685,21,662,0,872639,6,Married,Government,High School,0
+36,142000,11,747,0,886788,0,Single,Business,Graduate,1
+41,132855,25,533,4,448377,4,Single,Business,High School,0
+31,44578,3,561,4,847084,8,Single,Government,Graduate,0
+57,48831,4,424,0,951988,6,Married,Private,Post Graduate,0
+56,27906,12,544,5,491830,6,Married,Government,High School,0
+55,81413,28,841,2,916004,1,Single,Private,Post Graduate,1
+39,74028,14,784,4,243767,7,Single,Private,Graduate,0
+40,27287,24,421,2,545210,2,Married,Business,Post Graduate,0
+38,53660,22,424,5,427244,7,Single,Government,Post Graduate,0
+34,95758,15,848,0,504677,2,Married,Business,Post Graduate,1
+35,80504,9,469,5,413532,9,Married,Business,Graduate,0
+51,79720,29,423,4,863428,6,Married,Private,High School,0
+21,122979,29,334,1,410184,1,Married,Business,Post Graduate,0
+23,54701,24,386,0,816698,3,Married,Government,High School,0
+36,103300,22,500,3,518895,5,Married,Business,Graduate,0
+43,130177,15,668,2,226817,8,Single,Business,High School,0
+31,37674,11,376,5,417216,4,Married,Private,Post Graduate,0
+32,103560,16,358,0,931515,8,Married,Government,Post Graduate,0
+30,131543,15,730,5,2866,4,Single,Business,Post Graduate,0
+52,43874,11,799,0,112669,9,Married,Private,Post Graduate,0
+36,63642,7,408,4,792330,7,Single,Business,Post Graduate,0
+28,143867,19,577,4,280539,0,Married,Government,Post Graduate,0
+58,117820,2,367,4,694379,6,Single,Business,Graduate,0
+32,85160,15,368,5,266150,3,Single,Business,Graduate,0
+44,37602,29,464,3,689753,4,Married,Private,Graduate,0
+48,123320,12,788,4,797388,5,Married,Business,High School,0
+28,108801,22,604,0,443258,4,Married,Private,High School,0
+48,45931,27,664,4,489415,0,Married,Government,Graduate,0
+56,114377,18,678,1,923582,8,Single,Business,High School,0
+46,49192,7,642,4,947135,1,Single,Government,High School,0
+28,66542,21,653,5,357820,8,Single,Government,Post Graduate,0
+48,147015,4,715,3,646012,9,Married,Business,Post Graduate,0
+48,62520,19,408,1,587189,1,Single,Private,High School,0
+57,84772,7,796,5,893659,8,Married,Government,High School,0
+56,78762,23,640,5,724857,5,Married,Government,Graduate,0
+47,70106,11,682,5,488029,8,Single,Business,High School,0
+37,101121,0,832,0,641480,5,Married,Business,Post Graduate,0
+29,45559,24,599,5,172646,5,Single,Business,High School,0
+53,125595,29,438,0,293561,1,Married,Business,Graduate,0
+40,53742,20,658,5,350164,7,Single,Business,Post Graduate,0
+33,89669,19,798,2,345783,2,Married,Business,Post Graduate,1
+48,100199,5,684,1,458222,6,Single,Private,Post Graduate,0
+49,41754,21,579,2,94881,4,Single,Government,Post Graduate,0
+33,23972,17,782,5,242934,2,Married,Private,High School,0
+55,90831,7,410,1,956958,0,Married,Private,Graduate,0
+26,132217,6,438,1,132659,7,Single,Business,High School,0
+38,61873,0,734,3,645976,2,Married,Government,High School,0
+25,114661,20,808,2,501323,1,Married,Private,Post Graduate,1
+45,126532,15,572,3,639872,0,Married,Business,Graduate,0
+22,146267,11,398,1,710070,3,Single,Business,Post Graduate,0
+30,29903,5,403,0,872999,7,Single,Government,High School,0
+50,23020,19,513,1,747108,2,Married,Private,High School,0
+25,61755,1,464,3,862318,0,Married,Private,Post Graduate,0
+53,105956,28,819,2,936320,3,Single,Private,High School,1
+21,106988,13,583,5,741184,8,Married,Business,High School,0
+38,65648,3,816,5,815864,0,Single,Government,Post Graduate,0
+52,123537,0,463,2,179689,1,Married,Government,High School,0
+31,145991,22,363,5,334517,8,Married,Private,Graduate,0
+41,29516,17,390,5,165289,1,Married,Business,Post Graduate,0
+46,132863,12,416,3,283028,2,Single,Private,Graduate,0
+45,135005,1,566,2,267598,6,Single,Government,High School,0
+42,22396,8,439,4,599248,2,Single,Business,High School,0
+47,104082,20,545,0,102421,8,Single,Private,Post Graduate,0
+33,39129,1,694,0,238245,5,Married,Private,High School,0
+53,148322,26,786,5,567906,2,Married,Business,Post Graduate,0
+54,21591,24,775,0,980175,8,Single,Government,Post Graduate,0
+55,31303,8,816,2,47111,0,Married,Business,Post Graduate,0
+21,50561,0,483,2,432829,9,Married,Private,Post Graduate,0
+41,91719,10,319,1,216750,2,Single,Private,Post Graduate,0
+26,138618,2,823,1,120592,0,Married,Private,Graduate,1
+48,112108,19,828,0,234000,1,Married,Private,Post Graduate,1
+37,148748,29,446,4,780277,7,Single,Government,Graduate,0
+25,119616,22,603,1,322137,6,Married,Government,High School,0
+51,144165,25,527,1,128652,1,Married,Private,Post Graduate,0
+25,106231,3,401,2,926352,1,Married,Government,High School,0
+58,27314,17,716,4,508069,8,Single,Government,Post Graduate,0
+23,137071,22,515,5,602960,5,Single,Government,Graduate,0
+43,39623,5,706,0,774639,4,Married,Private,Graduate,0
+57,87675,2,698,1,852557,9,Married,Business,Graduate,0
+57,132992,21,798,4,217516,5,Married,Business,High School,0
+30,116826,10,764,4,379653,8,Single,Business,Post Graduate,0
+30,85082,14,381,0,61602,6,Single,Private,High School,0
+39,149839,21,664,4,203117,9,Single,Government,Graduate,0
+37,103624,27,462,4,237069,9,Married,Government,High School,0
+41,125228,4,347,4,566510,8,Married,Private,Graduate,0
+34,53130,19,810,1,835655,3,Married,Private,Graduate,1
+29,71756,9,628,0,241084,1,Married,Business,Graduate,0
+21,117624,11,415,4,242318,7,Married,Business,Post Graduate,0
+33,46292,14,636,4,589621,3,Single,Private,Post Graduate,0
+24,131785,16,446,1,708092,8,Married,Business,Graduate,0
+21,147331,9,622,0,384794,3,Married,Government,High School,0
+52,106206,5,742,2,49420,7,Married,Private,High School,0
+54,89274,17,312,1,599792,8,Single,Private,Post Graduate,0
+48,22469,12,793,0,526750,8,Married,Government,Graduate,0
+51,73947,2,586,4,271604,9,Single,Government,High School,0
+28,42534,29,413,0,623607,3,Single,Government,Graduate,0
+59,83620,23,779,0,780962,0,Single,Business,High School,1
+46,68874,9,321,5,664635,2,Single,Private,Post Graduate,0
+54,69708,29,648,0,668629,8,Single,Business,Graduate,0
+23,94553,13,619,2,653881,3,Married,Government,Graduate,0
+32,88344,5,425,0,122672,4,Married,Business,High School,0
+21,69138,2,576,2,459158,6,Single,Government,High School,0
+25,74302,15,503,4,335064,4,Single,Business,High School,0
+50,67638,6,493,2,513953,3,Single,Business,Graduate,0
+50,98249,19,846,4,808985,1,Married,Government,Post Graduate,0
+37,125865,13,585,4,417582,1,Married,Business,Post Graduate,0
+43,22719,8,356,2,44036,3,Single,Private,High School,0
+35,42890,14,602,1,148441,9,Married,Business,Post Graduate,0
+57,97236,20,462,3,142867,9,Married,Business,High School,0
+41,56509,2,318,0,70021,8,Single,Private,Post Graduate,0
+34,62534,1,669,5,369349,7,Single,Government,Graduate,0
+22,122302,26,563,3,461370,2,Married,Private,High School,0
+31,112241,1,412,0,685503,8,Married,Business,Post Graduate,0
+59,38787,2,787,0,422641,4,Married,Government,Graduate,0
+58,146209,17,626,4,874641,2,Single,Business,Post Graduate,0
+54,68845,13,841,0,337283,4,Single,Business,Graduate,1
+58,77932,19,364,5,760592,9,Single,Private,Graduate,0
+54,112124,17,591,0,529656,3,Married,Private,Post Graduate,0
+38,111659,9,324,2,659981,7,Married,Government,Post Graduate,0
+50,53062,24,848,3,583117,4,Single,Government,Graduate,0
+35,95713,1,300,2,391180,9,Married,Government,Graduate,0
+47,107263,24,848,5,453510,7,Single,Business,Graduate,0
+54,115756,28,440,0,801151,8,Married,Private,High School,0
+58,80461,21,487,5,553515,3,Single,Private,Graduate,0
+53,95418,0,427,4,633718,6,Married,Private,High School,0
+44,86672,3,500,2,400782,1,Married,Government,Graduate,0
+35,148232,13,426,2,12306,5,Single,Private,High School,0
+50,54832,0,556,1,578110,7,Single,Private,Graduate,0
+37,147335,13,846,0,24042,6,Single,Private,Graduate,0
+25,51966,15,493,4,408302,6,Single,Government,Graduate,0
+49,92545,21,403,2,672747,7,Single,Private,Post Graduate,0
+24,32987,13,834,2,944546,6,Married,Government,Post Graduate,0
+30,57311,28,564,4,613712,4,Single,Private,Graduate,0
+37,51575,19,683,5,182690,6,Single,Private,High School,0
+30,83852,2,559,5,747410,9,Single,Private,High School,0
+37,147650,2,713,0,149395,2,Single,Government,Graduate,1
+40,21007,8,657,1,542307,4,Single,Government,Post Graduate,0
+44,90981,5,374,2,861858,6,Married,Private,High School,0
+25,96242,24,654,1,565151,8,Single,Business,Post Graduate,0
+54,67517,12,487,5,635311,1,Single,Government,High School,0
+26,130022,20,589,5,665643,3,Single,Government,Graduate,0
+22,49257,1,344,3,935783,6,Married,Private,Post Graduate,0
+33,107272,7,382,0,309143,0,Married,Business,High School,0
+31,62207,20,422,3,62780,1,Single,Private,Graduate,0
+43,33281,1,657,3,809340,8,Single,Government,Graduate,0
+36,81246,3,827,3,716944,9,Married,Government,Graduate,0
+51,21435,24,365,0,388422,6,Married,Private,Post Graduate,0
+31,118875,14,674,0,899434,9,Married,Private,Post Graduate,0
+36,120686,3,461,4,443441,6,Single,Business,Graduate,0
+28,111357,12,679,1,693312,5,Single,Business,Post Graduate,0
+24,46660,27,657,1,100706,2,Married,Government,High School,0
+24,25084,11,487,4,693023,9,Single,Business,Graduate,0
+45,102197,27,621,4,122019,2,Married,Business,Graduate,0
+23,33507,12,749,5,371852,1,Married,Government,Post Graduate,0
+52,92595,13,773,3,716741,5,Married,Government,Graduate,0
+23,103807,19,312,4,179001,3,Single,Government,High School,0
+47,65539,17,483,2,795775,4,Married,Government,Post Graduate,0
+49,135953,28,410,1,862605,2,Married,Private,Post Graduate,0
+52,27491,27,807,4,100260,5,Single,Government,Graduate,0
+39,147706,5,589,2,170863,2,Married,Government,Graduate,0
+41,132831,28,594,2,684494,7,Single,Government,Graduate,0
+25,70192,10,750,2,702461,8,Married,Business,Post Graduate,0
+38,100395,29,514,5,593731,3,Single,Government,Graduate,0
+48,143797,1,326,5,754471,8,Married,Private,High School,0
+42,83888,27,530,2,319674,6,Married,Private,Graduate,0
+41,93609,22,620,5,440015,2,Married,Government,Graduate,0
+26,29077,18,532,3,660187,6,Married,Private,Post Graduate,0
+21,137440,18,736,2,96143,0,Married,Business,Graduate,1
+25,142901,4,832,3,718013,2,Single,Government,Post Graduate,0
+32,40953,18,702,3,144771,5,Single,Private,Graduate,0
+46,96919,1,352,2,506713,3,Married,Private,High School,0
+54,134682,9,612,1,900959,6,Married,Government,High School,0
+34,141041,24,580,2,772332,2,Married,Private,Post Graduate,0
+46,87889,1,330,2,660673,0,Single,Government,Post Graduate,0
+47,43821,29,636,5,668958,8,Single,Private,Graduate,0
+29,57567,10,482,2,111362,5,Married,Business,Graduate,0
+46,135374,17,322,1,770805,7,Single,Private,High School,0
+42,44860,28,843,5,290951,2,Married,Private,Graduate,0
+50,41195,23,745,0,987927,7,Married,Government,High School,0
+37,97475,14,373,0,724750,1,Married,Private,Post Graduate,0
+46,110874,8,309,3,176298,3,Single,Government,Graduate,0
+56,107266,22,783,3,583838,2,Married,Business,Post Graduate,0
+21,41427,18,755,1,473288,9,Married,Government,Graduate,0
+28,120732,8,459,4,265702,0,Married,Government,High School,0
+55,47083,2,313,0,992812,6,Single,Private,Post Graduate,0
+35,107046,20,477,3,312257,9,Single,Business,Post Graduate,0
+42,77372,8,711,0,839431,1,Single,Government,Graduate,1
+34,143786,27,352,1,711238,3,Married,Private,Post Graduate,0
+46,64064,29,707,1,953847,8,Single,Private,High School,0
+48,27813,13,321,4,58219,5,Married,Government,Post Graduate,0
+43,51598,18,329,4,690546,7,Single,Private,Post Graduate,0
+34,132718,6,559,5,954470,1,Married,Government,Graduate,0
+44,146879,15,504,1,689129,6,Single,Government,Post Graduate,0
+22,113106,15,358,3,775292,5,Married,Government,Graduate,0
+46,47082,27,770,0,781624,8,Single,Business,Graduate,0
+34,49241,0,765,2,236495,6,Single,Government,Post Graduate,0
+27,116214,3,311,4,577506,0,Single,Private,High School,0
+23,64569,3,589,2,281373,7,Married,Business,Graduate,0
+43,31745,6,653,3,861641,9,Single,Private,Post Graduate,0
+38,46029,7,374,4,552165,2,Single,Business,Graduate,0
+58,33025,16,740,2,189073,1,Single,Business,High School,0
+55,121660,4,540,3,359281,2,Single,Business,High School,0
+35,143395,6,453,0,824516,5,Married,Business,Graduate,0
+45,34288,27,395,3,868212,2,Single,Private,High School,0
+57,109186,19,593,5,147878,9,Married,Government,Post Graduate,0
+48,26540,28,508,4,219707,4,Married,Private,Post Graduate,0
+30,117768,19,642,1,241249,5,Married,Government,Graduate,0
+59,101958,3,387,0,37034,7,Married,Private,High School,0
+37,88878,27,689,2,171389,6,Single,Business,Post Graduate,0
+59,61846,5,624,4,841900,7,Married,Business,Post Graduate,0
+42,121148,6,456,1,412310,2,Married,Government,Post Graduate,0
+46,95932,17,436,3,713156,3,Married,Government,Graduate,0
+45,37482,4,727,1,10589,5,Married,Private,Graduate,0
+37,43411,19,751,4,57221,6,Single,Government,Post Graduate,0
+33,70975,29,440,4,255927,8,Single,Private,Post Graduate,0
+40,80545,28,382,5,788089,0,Married,Government,High School,0
+45,132302,2,476,5,360444,7,Married,Government,High School,0
+24,98797,6,497,1,641517,7,Married,Government,High School,0
+30,72307,26,720,3,825963,5,Single,Business,Graduate,0
+23,23093,27,700,1,576515,3,Single,Business,Post Graduate,0
+38,97258,21,770,4,265308,2,Single,Private,Graduate,0
+56,42042,13,517,4,93078,2,Single,Government,Post Graduate,0
+42,72930,6,474,2,827679,5,Single,Private,High School,0
+54,137584,4,322,5,759401,7,Married,Government,High School,0
+28,64413,28,534,2,937105,6,Single,Business,High School,0
+39,133387,21,312,0,574887,0,Single,Business,High School,0
+57,113623,4,400,4,464761,5,Married,Government,Post Graduate,0
+26,117883,29,835,2,770655,6,Single,Government,High School,0
+46,53756,22,822,1,922056,6,Single,Business,Post Graduate,0
+54,73268,1,751,5,509668,8,Single,Business,Post Graduate,0
+26,59214,29,730,5,926921,9,Married,Private,Graduate,0
+57,101871,26,832,3,189651,4,Single,Business,High School,0
+53,147844,20,592,1,500741,0,Married,Government,High School,0
+42,48602,21,400,3,68207,1,Married,Private,Graduate,0
+41,73331,5,801,2,334199,3,Single,Government,Post Graduate,1
+26,68901,14,603,0,888698,4,Single,Private,High School,0
+26,119986,20,839,1,340414,8,Single,Government,Post Graduate,0
+24,83416,9,654,1,111426,0,Single,Business,Graduate,1
+50,52196,22,602,1,511081,2,Married,Government,Post Graduate,0
+31,148386,25,795,3,134794,4,Single,Private,High School,0
+50,25626,23,526,2,856874,2,Married,Government,Post Graduate,0
+51,27424,6,535,1,357776,3,Married,Private,Post Graduate,0
+44,32857,4,754,1,695391,2,Married,Government,High School,0
+29,130459,0,312,5,734595,3,Married,Business,High School,0
+23,135621,12,509,0,545726,0,Married,Business,Post Graduate,0
+51,39982,20,696,5,583107,7,Single,Government,Post Graduate,0
+57,96961,25,399,5,43856,3,Married,Government,Graduate,0
+56,21980,17,330,0,426792,6,Married,Government,High School,0
+44,68290,12,827,2,828370,1,Single,Private,Post Graduate,1
+51,46431,20,628,5,442244,1,Single,Government,High School,0
+26,104976,20,465,2,59807,5,Married,Government,Graduate,0
+22,127288,17,758,5,836309,1,Married,Private,Post Graduate,0
+40,102711,4,399,4,490999,5,Single,Business,Post Graduate,0
+48,134187,12,472,0,43461,1,Married,Government,Post Graduate,0
+31,46385,3,461,5,617762,3,Single,Government,High School,0
+24,58158,16,562,4,957973,6,Single,Business,Graduate,0
+35,43019,2,573,3,345280,7,Married,Business,High School,0
+26,38639,16,302,4,282579,2,Single,Private,Post Graduate,0
+50,105530,27,327,1,739477,8,Married,Government,Graduate,0
+58,119911,10,625,5,407407,1,Married,Government,Post Graduate,0
+22,41563,20,448,4,871158,7,Married,Private,Post Graduate,0
+35,59341,19,839,2,254730,7,Single,Business,High School,0
+31,135672,22,787,3,246732,3,Married,Private,Post Graduate,0
+28,25776,20,737,5,420602,0,Single,Business,Graduate,0
+46,56444,25,364,1,687081,0,Married,Private,Post Graduate,0
+25,88916,29,655,4,579074,1,Married,Business,Post Graduate,0
+26,28711,3,832,3,275848,8,Single,Private,High School,0
+46,94318,1,551,5,56635,1,Married,Business,Graduate,0
+24,102970,19,534,3,919627,1,Married,Business,High School,0
+39,132301,15,526,1,352854,5,Single,Business,Post Graduate,0
+40,105553,27,824,4,765197,6,Single,Business,High School,0
+53,50707,17,612,3,245984,6,Single,Business,High School,0
+40,59110,7,348,3,325137,8,Married,Government,High School,0
+32,149410,2,417,0,112752,5,Single,Business,High School,0
+21,81788,8,353,3,211194,7,Single,Government,Post Graduate,0
+46,102879,28,343,0,228584,5,Married,Business,Post Graduate,0
+34,58827,19,352,4,418632,1,Single,Government,Graduate,0
+58,127188,28,824,5,132886,0,Married,Government,High School,0
+57,25655,5,401,5,78537,4,Married,Private,High School,0
+31,64859,9,697,4,836690,8,Single,Business,Graduate,0
+56,73625,20,437,4,671868,7,Married,Private,High School,0
+33,72098,9,686,2,85166,3,Single,Private,Graduate,1
+23,35251,12,410,4,734276,4,Single,Business,Post Graduate,0
+53,142413,16,316,3,375854,4,Single,Private,Graduate,0
+26,20526,8,481,5,297843,5,Single,Business,High School,0
+30,88760,16,835,1,308479,2,Married,Private,Graduate,1
+25,67837,23,840,5,833238,4,Married,Business,Post Graduate,0
+43,145133,8,470,0,864285,1,Single,Business,High School,0
+30,149478,8,708,5,719128,9,Single,Business,Post Graduate,0
+22,31536,0,677,2,297883,0,Married,Government,Post Graduate,0
+33,48541,1,487,4,559073,0,Single,Private,Graduate,0
+22,99083,27,529,4,163052,9,Married,Government,Post Graduate,0
+40,71027,15,418,5,756079,6,Single,Private,High School,0
+21,54531,28,455,1,487918,1,Married,Private,Post Graduate,0
+57,28712,0,764,1,871448,3,Married,Private,Post Graduate,0
+29,124101,9,403,2,394825,4,Married,Government,Graduate,0
+37,85455,17,801,0,66253,6,Single,Private,Post Graduate,0
+29,94744,25,474,5,478697,1,Single,Government,Graduate,0
+31,141787,27,720,4,615416,5,Single,Business,Graduate,0
+35,149749,7,433,5,945645,0,Single,Private,High School,0
+44,25109,20,690,2,161081,6,Single,Private,High School,0
+58,141332,27,800,3,914013,8,Married,Business,High School,0
+55,69268,10,332,3,635254,4,Married,Business,High School,0
+50,120737,22,354,2,137854,4,Married,Private,Graduate,0
+51,74615,1,818,4,623640,3,Married,Business,Post Graduate,0
+25,102503,7,311,2,419149,2,Married,Government,High School,0
+34,143274,26,827,4,863586,8,Married,Government,High School,0
+31,49759,21,672,1,663667,4,Married,Private,High School,0
+29,105708,7,783,2,747567,7,Single,Government,Post Graduate,0
+54,80112,16,527,4,761569,8,Married,Government,High School,0
+32,122471,14,606,2,632585,4,Single,Private,Post Graduate,0
+55,146740,16,756,2,731234,9,Married,Business,Graduate,0
+55,143153,27,459,4,562634,8,Married,Private,Graduate,0
+21,46589,22,630,4,112138,1,Single,Government,Graduate,0
+42,50015,23,524,0,312916,8,Married,Private,Post Graduate,0
+49,49009,12,803,2,989588,3,Single,Private,High School,0
+28,103309,18,755,3,40149,5,Married,Government,High School,0
+31,146446,4,344,2,348844,5,Single,Government,High School,0
+57,82046,11,513,2,682886,5,Married,Private,High School,0
+34,126661,0,358,4,883190,1,Single,Government,High School,0
+50,46143,22,494,2,478928,6,Single,Government,Post Graduate,0
+55,26154,4,788,5,128447,5,Married,Government,Graduate,0
+41,41804,7,456,2,461693,0,Married,Government,High School,0
+57,61688,12,525,5,5695,1,Single,Government,Graduate,0
+25,84288,7,711,3,563457,6,Married,Government,Post Graduate,0
+39,71195,24,504,4,834379,0,Single,Business,Post Graduate,0
+34,40581,22,378,2,178296,0,Married,Private,High School,0
+46,72648,10,423,5,832297,0,Single,Government,Post Graduate,0
+24,50087,0,770,5,680913,7,Married,Private,Graduate,0
+45,69930,12,517,5,366645,3,Single,Business,High School,0
+45,52981,18,815,1,322554,3,Married,Government,High School,1
+38,89298,23,403,0,365898,1,Single,Private,Graduate,0
+28,66167,2,692,3,353039,0,Single,Government,High School,0
+59,95304,23,733,2,942320,9,Married,Government,High School,0
+34,63408,16,630,1,710386,8,Married,Government,Graduate,0
+52,59499,4,442,2,312849,6,Single,Government,High School,0
+58,145816,19,839,2,192994,3,Single,Government,High School,1
+53,72269,20,577,4,377844,5,Single,Government,Graduate,0
+43,58559,7,532,4,860346,1,Single,Government,Post Graduate,0
+35,134126,25,828,4,1881,6,Married,Business,Graduate,0
+53,94319,13,389,1,957071,1,Single,Business,High School,0
+45,131925,3,791,2,309509,9,Single,Government,Graduate,0
+37,115317,10,498,0,521144,7,Single,Government,High School,0
+53,116347,19,661,3,79211,7,Married,Business,High School,0
+22,68787,14,740,4,987626,0,Single,Business,Graduate,0
+34,55488,18,325,4,156078,7,Married,Business,High School,0
+59,94441,6,324,2,303342,1,Married,Government,Post Graduate,0
+26,94663,18,693,2,940335,5,Married,Private,High School,0
+26,42431,27,806,1,887081,0,Married,Private,Graduate,0
+23,81681,18,600,1,933963,4,Married,Private,Post Graduate,0
+27,83483,10,638,4,425659,6,Married,Private,Post Graduate,0
+28,142720,25,566,2,959820,9,Married,Government,High School,0
+35,69153,4,760,0,227203,0,Single,Private,Graduate,1
+49,26368,4,755,3,719846,1,Single,Business,High School,0
+53,47424,29,659,2,661237,6,Married,Business,High School,0
+50,132360,21,367,2,39553,5,Single,Private,Graduate,0
+59,65004,7,711,5,507353,2,Single,Business,Graduate,0
+47,103869,9,790,1,398138,9,Married,Government,High School,0
+56,108652,5,348,3,909210,1,Single,Private,Post Graduate,0
+49,132755,14,401,4,903450,9,Married,Private,High School,0
+58,76985,15,515,2,660046,3,Single,Government,Post Graduate,0
+53,70069,27,737,4,32766,2,Married,Business,High School,0
+57,72326,16,458,2,997447,6,Married,Government,Graduate,0
+47,128737,7,788,4,818438,7,Single,Government,Post Graduate,0
+53,101061,7,541,3,555710,1,Single,Business,Graduate,0
+24,43398,24,304,1,903022,9,Married,Government,Graduate,0
+42,118393,8,660,3,274349,6,Married,Business,Graduate,0
+22,70861,1,758,5,479806,7,Married,Business,Graduate,0
+30,95897,14,547,0,154599,5,Single,Government,Graduate,0
+25,101905,17,721,1,766843,5,Single,Business,High School,0
+30,147118,2,314,3,411659,9,Single,Government,Post Graduate,0
+53,88577,16,421,5,409740,0,Single,Business,High School,0
+58,85641,3,576,0,378621,3,Married,Private,High School,0
+33,29078,29,752,5,28202,0,Married,Business,High School,0
+51,45003,3,689,2,983056,3,Married,Business,Graduate,0
+56,82768,13,593,2,439358,1,Married,Government,High School,0
+44,71047,8,745,4,848124,4,Single,Business,Post Graduate,0
+35,91626,8,509,1,737744,9,Married,Private,High School,0
+49,77660,24,601,2,20855,8,Married,Private,Graduate,0
+28,124386,25,522,5,476963,9,Single,Business,Post Graduate,0
+25,69786,22,302,1,715732,2,Single,Business,Post Graduate,0
+49,21925,29,817,2,811527,7,Married,Private,Post Graduate,0
+24,103976,17,392,4,956228,2,Single,Government,Post Graduate,0
+32,125221,9,819,3,311385,5,Married,Private,High School,0
+22,137832,20,727,4,627407,3,Single,Private,Graduate,0
+47,145150,3,792,0,576291,7,Single,Business,Post Graduate,0
+51,46015,11,534,2,461595,5,Married,Business,Post Graduate,0
+56,53320,26,460,0,94837,7,Single,Private,Graduate,0
+56,84881,7,630,0,223068,0,Married,Government,High School,0
+46,110827,1,632,5,356427,5,Single,Private,Post Graduate,0
+47,140071,21,349,1,933476,0,Single,Private,High School,0
+25,122215,12,822,5,123805,0,Single,Government,High School,0
+40,46289,20,791,2,880278,7,Single,Private,High School,0
+31,148859,15,571,0,809359,6,Single,Private,High School,0
+30,23389,27,551,3,907021,2,Married,Business,Post Graduate,0
+58,45683,1,389,0,115657,5,Single,Government,Post Graduate,0
+26,33629,10,745,3,853062,8,Married,Business,High School,0
+28,81550,9,631,5,104428,6,Single,Business,High School,0
+43,44826,14,438,5,122035,2,Married,Government,Graduate,0
+46,120734,16,656,1,445563,5,Single,Government,Graduate,0
+32,46630,7,573,0,230780,3,Married,Private,Graduate,0
+46,118762,17,318,4,912676,2,Married,Business,Post Graduate,0
+33,66163,22,610,5,741570,8,Single,Government,Graduate,0
+38,118511,8,453,5,69518,9,Single,Business,Post Graduate,0
+45,86435,24,689,1,176355,1,Single,Business,Post Graduate,1
+53,31653,7,559,3,867758,0,Married,Government,Post Graduate,0
+32,47961,26,424,1,667565,1,Married,Private,Post Graduate,0
+56,101941,13,653,0,120243,6,Single,Business,Graduate,0
+24,94137,27,572,2,799180,9,Single,Government,High School,0
+25,53662,25,544,2,938601,0,Married,Private,High School,0
+57,118818,24,749,3,396308,5,Married,Business,High School,0
+28,76446,17,546,5,53311,6,Single,Government,Graduate,0
+48,41288,21,819,3,22692,8,Married,Business,High School,0
+51,142555,19,440,5,649242,7,Single,Government,Graduate,0
+29,115081,29,661,5,679222,5,Single,Government,Graduate,0
+49,56877,19,307,2,392179,2,Single,Business,Graduate,0
+34,131562,20,777,3,221468,7,Married,Business,High School,0
+42,35313,11,651,1,341651,6,Married,Government,High School,0
+31,100885,18,794,5,80152,2,Married,Private,High School,0
+43,92715,13,726,4,463685,8,Married,Business,Post Graduate,0
+21,30326,16,338,4,529214,1,Single,Government,Graduate,0
+57,130091,23,486,1,3969,2,Married,Government,Post Graduate,0
+41,145836,20,392,4,35733,1,Single,Private,Graduate,0
+46,21560,2,385,0,331999,0,Single,Private,High School,0
+56,99148,25,343,5,41743,3,Single,Private,Graduate,0
+43,103186,29,436,1,654481,4,Married,Business,Graduate,0
+21,46745,22,720,3,170948,5,Single,Government,Post Graduate,0
+35,51890,6,373,5,893877,4,Single,Government,Graduate,0
+41,40022,16,847,1,20323,0,Married,Government,High School,0
+29,143629,11,811,2,523293,2,Single,Private,Graduate,1
+29,72579,8,455,3,278572,0,Married,Government,Graduate,0
+30,90316,14,554,2,558866,4,Married,Business,Graduate,0
+46,103847,17,470,5,610774,4,Married,Private,Post Graduate,0
+55,48380,20,469,3,501793,5,Single,Private,Graduate,0
+45,130198,12,621,4,326284,7,Married,Private,Graduate,0
+46,22356,29,755,1,781738,9,Married,Private,Post Graduate,0
+31,90326,20,454,5,631613,0,Married,Business,Post Graduate,0
+58,112447,29,648,0,870261,3,Married,Government,Post Graduate,0
+22,134994,7,750,3,268508,9,Single,Business,Post Graduate,0
+27,109899,13,472,3,391011,0,Married,Government,High School,0
+38,40049,7,309,5,428565,8,Single,Business,High School,0
+47,95717,13,564,5,656051,6,Married,Private,Graduate,0
